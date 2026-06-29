@@ -122,4 +122,3 @@ import pandas as pd
 df = pd.read_csv(f'{path}/2004-2021.tsv', sep='\t', encoding='utf-8')
 ```
 
-Ou acesse o notebook completo: *(inserir link do Colab aqui)*
