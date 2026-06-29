@@ -121,4 +121,4 @@ path = kagglehub.dataset_download("matheusfreitag/gas-prices-in-brazil")
 import pandas as pd
 df = pd.read_csv(f'{path}/2004-2021.tsv', sep='\t', encoding='utf-8')
 ```
-
+Ou acesse o notebook completo: [Abrir no Google Colab](https://colab.research.google.com/drive/1ZrGd69wIZqI_QvKVjP86LHUNeyA2fY4v?usp=sharing)
